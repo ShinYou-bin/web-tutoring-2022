@@ -1,0 +1,20 @@
+header{
+    background-color: violet;
+}
+.picture{
+    background-color: gray;
+}
+.sound{
+    background-color: orange;
+}
+.cow1{
+    float: right;
+    background-color: bisque;
+}
+.cow2{
+    background-color: pink;
+}
+
+.cow3{
+    background-color: aquamarine;
+}
