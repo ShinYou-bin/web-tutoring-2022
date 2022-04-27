@@ -1,0 +1,76 @@
+body {
+    flex-direction: column;
+}
+
+.logo{
+    text-align: center;
+    text-decoration: none;
+    text-shadow: 2px 2px 2px gray; 
+}
+
+hr{
+    width: 20%;
+}
+
+.ko-logo{
+    text-align: center;
+    text-decoration: none;
+}
+
+.form{
+    width: 100%;
+    display: inline-block;
+    text-align: center;
+}
+
+input{
+    background-color: black;
+    color: white;
+}
+
+input::placeholder{
+    text-align: center;
+    color: white;
+}
+
+.login{
+    text-align: center;
+}
+
+.btn1{
+    border: 0;
+    outline: 0;
+    background-color: white;
+    cursor: pointer;
+    font-weight: 600;
+}
+
+.find{
+    text-align: center;
+}
+
+.btn2, .btn3{
+    border: 0;
+    outline: 0;
+    background-color: white;
+    cursor: pointer;
+    font-weight: 400;
+    color: orange;
+}
+
+.kakao-login{
+    text-align: center;
+}
+
+.signup{
+    text-align: center;
+}
+
+.btn5{
+    border: 0;
+    outline: 0;
+    background-color: white;
+    cursor: pointer;
+    font-size: 15px;
+    font-weight: 700;
+}
