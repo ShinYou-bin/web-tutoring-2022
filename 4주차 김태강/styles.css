@@ -25,6 +25,7 @@ hr{
 
 input{
     background-color: black;
+    color: white;
 }
 
 input::placeholder{
