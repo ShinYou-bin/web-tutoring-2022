@@ -1,0 +1,63 @@
+
+header{
+    border-bottom: 10px;
+}
+
+#tumblbug{
+    float: left;
+    padding-left: 15px;
+    padding-top: 10px;
+    width: 180px;
+    height: 30px;
+    font-size: 30px;
+    position: relative;
+    left: 150px;
+}
+
+    ul{
+        list-style: none;
+        position: relative;
+        left: -50px;
+        }
+        li{
+            margin: 20px;
+            float: left;
+            padding-left: 0px;
+        }
+    
+    .search{
+        float: right;
+        
+    }
+    #log_in{
+        float: right; 
+        position: relative;
+        right: 15px; 
+    }
+    
+    #upload{
+        float: right;
+        position: relative;
+         right: 40px;
+    }
+    #achieve{
+        position: relative;
+        left: 165px;
+    }
+   #recom{
+       position: relative;
+       bottom: 25px;
+       left: 230px;
+   }
+  p{
+      position: relative;
+      left: 160px;
+  }
+   .project1{
+       position:fixed;
+        left: 160px;
+        width: 20%;
+    }
+    .introduce{
+        
+    }
