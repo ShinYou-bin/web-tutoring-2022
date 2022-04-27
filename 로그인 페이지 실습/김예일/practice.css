@@ -1,0 +1,33 @@
+body {
+  text-align: center;
+}
+.logo {
+  margin-bottom: 30px;
+  font-size: 40px;
+  font-weight: bold;
+}
+.line {
+  width: 200px;
+}
+.login {
+  font-size: 30px;
+  font-weight: bold;
+  margin: 30px 0px 25px;
+}
+input::placeholder{
+  background-color: black;
+  color: white;
+  text-align: center;
+}
+input {
+  padding: 0px;
+}
+.signIn {
+  font-size: 16px;
+}
+.search {
+  color: orange;
+}
+.signUp {
+  margin-top: 20px;
+}
