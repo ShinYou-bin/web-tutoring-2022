@@ -1,0 +1,95 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: 'Noto Sans KR', Nanum Gothic ,nanumgothic,"돋움",dotum,tahoma,sans-serif;
+}
+
+#loginWrap{
+}
+
+body{
+    font-size: 16px;
+    font-weight: 300;
+    line-height: normal;
+}
+
+header{
+    background-color: #0843a5;
+    font-size: 16px;
+    line-height: 1.6;
+}
+
+.inner{
+    padding: 10px 0 20px;
+    max-width: 1440px;
+    margin: 0 auto;
+}
+
+h1{
+    display: block;
+    font-size: 2em;
+    margin-block-start: 0.67em;
+    margin-block-end: 0.67em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    font-weight: bold;  
+}
+
+a{
+    text-decoration: none;
+}
+
+img{
+    border: 0 none;
+}
+
+.logo img{
+    display: inline-block;
+    vertical-align: middle;
+}
+
+.logo span{
+    font-size: 20px;
+    color: #fff;
+    padding-left: 20px;
+    margin-left: 20px;
+    position: relative;
+    font-weight: 600;
+    letter-spacing: -1px;
+
+    
+}
+
+.text{
+    margin-bottom: 30px;
+    margin-top: 50px;
+    text-align: center;
+    font-size: 18px;
+}
+
+.title{
+    font-size: 30px;
+}
+
+.center{
+    width: 100%;
+    text-align: center;
+    border: 1px solid black;
+    
+}
+.center.left{
+        
+        width: 50%;
+        margin: 0 auto;
+        box-sizing: border-box;
+       
+        background-size: 100%;
+        box-shadow: 10px 20px 20px rgb(0 0 0 / 20%);
+        background-color: #fff;
+}
+
+.loginForm{
+    position: relative;
+    padding: 40px 35px 0;
+    box-sizing: border-box;
+}
