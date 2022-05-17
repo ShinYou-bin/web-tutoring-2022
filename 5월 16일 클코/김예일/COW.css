@@ -1,0 +1,35 @@
+nav {
+  display: flex;
+  background-color: rgb(23, 23, 73);
+}
+.logo {
+  color: orange;
+  padding: 35px 0 0 20px;
+}
+.coin {
+  color: white;
+  font-size: 35px;
+  padding: 20px;
+}
+.line {
+  width: 1000px;
+  text-align: center;
+  padding-top: 10px;
+}
+.categori {
+  list-style-type: none;
+  color: black;
+}
+li {
+  font-size: 22px;
+  display: inline;
+  margin: 15px;
+  color: white;
+}
+.sns {
+  padding: 35px 10px 0 240px;
+  display: flex;
+}
+.insta {
+  margin-right: 15px;
+}
